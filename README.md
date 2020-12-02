@@ -1,0 +1,4 @@
+# RVCE_COMPUTER_GRPHICS
+For CG lab
+Sammed A Muttin
+1RV17CS136
